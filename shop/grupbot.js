@@ -5,8 +5,7 @@ const gcbotwa = () =>{
 1. *ImanBot Support*
 _https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
 2. *Nimvers*
-_https://chat.whatsapp.com/LJTyb2QShYYE8ckqKSqUPA
-
+_https://chat.whatsapp.com/LJTyb2QShYYE8ckqKSqUPA_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
