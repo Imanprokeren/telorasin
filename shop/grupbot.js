@@ -3,7 +3,7 @@ const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
 1. *ImanBot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
+_https://chat.whatsapp.com/FjI0PfrSvoX5VzuZ9WgY58_
 2. *Nimvers*
 _https://chat.whatsapp.com/LJTyb2QShYYE8ckqKSqUPA_
 
