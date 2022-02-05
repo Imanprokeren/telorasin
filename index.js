@@ -5857,8 +5857,12 @@ break
 					reply ('iya, Iman pro sedunia')
 					await limitAdd(sender, limit)
                                         break
+	case 'pembuatbot':
+					reply ('Pembuat bot adalah ImanPro')
+					await limitAdd(sender, limit)
+                                        break
 				default:
-		
+				
 if (budy.includes("eror",'error','Eror','Error')){
 					alpha.updatePresence(from, Presence.composing)
 					const daieeeee = fs.readFileSync('./sticker/10_1.webp');
