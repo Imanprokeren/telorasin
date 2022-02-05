@@ -5853,6 +5853,10 @@ break
 					alpha.sendMessage(from, 'Pertanyaan : *'+apakah+'*\n\nJawaban : '+ kah, text, { quoted: mek })
 					await limitAdd(sender, limit)
 					break
+           case 'imanpro':
+					reply ('iya, Iman pro sedunia')
+					await limitAdd(sender, limit)
+                                        break
 				default:
 		
 if (budy.includes("eror",'error','Eror','Error')){
