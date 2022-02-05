@@ -1,7 +1,7 @@
 const pc_sewa = () => {
 return `「 *PRICE LIST* 」
 							
-⬣ PRICE SEWABOT
+⬣ PRICE SEWABOT BY ©ImanBot
 
 ⬡ 1 MINGGU = Rp 5.000
 ⬡ 2 MINGGU = Rp 8.000
@@ -10,14 +10,11 @@ return `「 *PRICE LIST* 」
 ⬡ PERMANEN = Rp 100.000
 ⬡ PERMANEN + USER PREM = Rp 150.000
 
-
 ⬣ PRICE JADIBOT
-
 ⬡ JADI BOT PERMANEN 25K
 
-
-⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬣ MINAT? CHAT IMAN
+⬡ wa.me//6289522724388
 
 
 NOTE : 
